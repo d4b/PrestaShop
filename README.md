@@ -1,6 +1,8 @@
 About PrestaShop
 --------
 
+[![Join the chat at https://gitter.im/d4b/PrestaShop](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/d4b/PrestaShop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 PrestaShop is a free and open-source e-commerce web application, committed to providing the best shopping cart experience for both merchants and customers. It is written in PHP, is highly customizable, supports all the major payment services, is translated in many languages and localized for many countries, is fully responsive (both front- and back-office), etc. [See all the available features][1].
 
 <p align="center">
